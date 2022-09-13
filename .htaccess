@@ -1,0 +1,3 @@
+<IfModule>
+	Allow from all
+</IfModule>
